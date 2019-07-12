@@ -1,2 +1,2 @@
 # final_selenium_stepic
-Repository fir final project
+Repository for final project
